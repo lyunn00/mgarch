@@ -1,0 +1,2 @@
+# mgarch
+Multivariate GARCH Model
